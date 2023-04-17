@@ -29,7 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AF1A102B29E5A5A0004D90EF /* MusicApp2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicApp2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF1A102B29E5A5A0004D90EF /* MusicAppPlus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicAppPlus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF1A102E29E5A5A0004D90EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AF1A103029E5A5A0004D90EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		AF1A103229E5A5A0004D90EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,7 +74,7 @@
 		AF1A102C29E5A5A0004D90EF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AF1A102B29E5A5A0004D90EF /* MusicApp2.app */,
+				AF1A102B29E5A5A0004D90EF /* MusicAppPlus.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -149,9 +149,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AF1A102A29E5A5A0004D90EF /* MusicApp2 */ = {
+		AF1A102A29E5A5A0004D90EF /* MusicAppPlus */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AF1A104229E5A5A1004D90EF /* Build configuration list for PBXNativeTarget "MusicApp2" */;
+			buildConfigurationList = AF1A104229E5A5A1004D90EF /* Build configuration list for PBXNativeTarget "MusicAppPlus" */;
 			buildPhases = (
 				AF1A102729E5A5A0004D90EF /* Sources */,
 				AF1A102829E5A5A0004D90EF /* Frameworks */,
@@ -161,9 +161,9 @@
 			);
 			dependencies = (
 			);
-			name = MusicApp2;
+			name = MusicAppPlus;
 			productName = MusicApp2;
-			productReference = AF1A102B29E5A5A0004D90EF /* MusicApp2.app */;
+			productReference = AF1A102B29E5A5A0004D90EF /* MusicAppPlus.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -181,7 +181,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AF1A102629E5A5A0004D90EF /* Build configuration list for PBXProject "MusicApp2" */;
+			buildConfigurationList = AF1A102629E5A5A0004D90EF /* Build configuration list for PBXProject "MusicAppPlus" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -194,7 +194,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AF1A102A29E5A5A0004D90EF /* MusicApp2 */,
+				AF1A102A29E5A5A0004D90EF /* MusicAppPlus */,
 			);
 		};
 /* End PBXProject section */
@@ -429,7 +429,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AF1A102629E5A5A0004D90EF /* Build configuration list for PBXProject "MusicApp2" */ = {
+		AF1A102629E5A5A0004D90EF /* Build configuration list for PBXProject "MusicAppPlus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AF1A104029E5A5A1004D90EF /* Debug */,
@@ -438,7 +438,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AF1A104229E5A5A1004D90EF /* Build configuration list for PBXNativeTarget "MusicApp2" */ = {
+		AF1A104229E5A5A1004D90EF /* Build configuration list for PBXNativeTarget "MusicAppPlus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AF1A104329E5A5A1004D90EF /* Debug */,
